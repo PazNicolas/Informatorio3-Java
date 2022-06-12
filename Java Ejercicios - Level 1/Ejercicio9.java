@@ -1,3 +1,7 @@
+/* Dado un String de entrada (frase, texto, etc) calcular la cantidad de veces que aparece una letra dada.
+ */
+
+
 import java.io.IOException;
 import java.util.Scanner;
 

@@ -7,7 +7,6 @@ Observacion: Los 2 argumentos indican con que valor se arranca a calcular y el
 segundo con qué valor debe frenar (no se incluye en el cálculo)
 Ejemplo: (1, 5) ----> calculará valores de 1, 2, 3, 4 */
 
-
 public class Ejercicio7 {
     public static String[] fizzBuzzFuncion(int a, int b) {
         String out = "";

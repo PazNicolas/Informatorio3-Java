@@ -8,7 +8,6 @@ sueldo (horasTrabajadas x valorPorHora) de toda esa lista para luego
 almacenar en un Map (o Diccionario) donde la clave (key) es el dni y el valor
 (value) es el sueldo calculado. */
 
-
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
